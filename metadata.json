@@ -1,0 +1,6 @@
+{
+  "name": "TraceRisk — Zero Trust Intelligence",
+  "description": "Plataforma de segurança Zero Trust com análise de risco em Python, controle de acesso adaptativo, simulação em tempo real e monitoramento de telemetria.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
